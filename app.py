@@ -48,20 +48,95 @@
 # print(type(str))
 
 #Number
-a=1_000_000
-print(a)
-print(type(a))
-b=11.33
-print(b)
-print(type(b))
-
-
-val1 = int("19")
-val2 =int("24")
+# a=1_000_000
+# print(a)
+# print(type(a))
+# b=11.33
+# print(b)
+# print(type(b))
+#
+#
+# val1 = int("19")
+# val2 =int("24")
 
 #print(val1+val2)
 
-total=val1+val2
-print(type(total))
-print("Total = " + str(total))
-print(len(str(total)))
+# total=val1+val2
+# print(type(total))
+# print("Total = " + str(total))
+# print(len(str(total)))
+
+#27-07-2024
+
+#Boolean
+# a=True
+# print(bool(a))
+# a=0.0
+# print(bool(a))
+# a=1.0
+# print(bool(a))
+# a=5
+# b=10
+# print(bool(a==b))
+# a=None
+# print(bool(a))
+# a=()
+# print(bool(a))
+# a={}
+# print(bool(a))
+# a="ABC"
+# print(bool(a))
+# a=-5
+# print(bool(a))
+
+# num=input("Input two digit number = ")
+# val1=int(num[0])
+# val2=int(num[1])
+# total=val1+val2
+# print("Result = " + str(total))
+
+
+# va=5
+# print(va>3 and va<10)
+# print(va>3 and va<4)
+#
+# x=10
+# y=20
+# z=0
+# print("x and y", x and y)
+# print("x or y", x or y)
+# print("x and z", x and z)
+# print("x or z", x or z)
+# print("z or y", z or y)
+
+# a="hello"
+# b=tuple()
+# print("a and b : ", a and b)
+# print("a or b : ", a or b)
+#
+# x=[1,2,3,]
+# y=[10,20,30]
+# print("x and y : ", x and y)
+# print("y and x : ", y and x)
+# print("x or y : ", x or y)
+
+#identity operator
+# a=[1,2,3,4]
+# b=[1,2,3,4]
+# c=a
+# print("a is b :", a is b)
+# print("a is c :", a is c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
